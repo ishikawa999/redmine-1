@@ -1,3 +1,5 @@
+test
+
 # https://github.com/docker-library/redmine
 
 ## Maintained by: [the Docker Community](https://github.com/docker-library/redmine)
